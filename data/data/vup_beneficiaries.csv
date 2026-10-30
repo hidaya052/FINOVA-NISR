@@ -1,0 +1,7 @@
+component,poverty_status,share_pct,notes
+Direct Support,Poor,43.5,EICV7 VUP 2023/24
+Direct Support,Non-poor,56.5,Includes targeting errors
+Public Works,Poor,42.0,EICV7 VUP 2023/24
+Public Works,Non-poor,58.0,Limited workdays reduce impact
+Nutrition Sensitive,Moderate,38.0,Food security linked
+FSMS,Extreme,9.0,Food security monitoring
