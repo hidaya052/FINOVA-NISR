@@ -1,0 +1,14 @@
+indicator,value,unit,year,source
+Monetary poverty rate,27.4,%,2023/24,EICV7 NISR
+Extreme poverty rate,11.3,%,2023/24,EICV7 NISR
+Rural poverty rate,31.6,%,2023/24,EICV7 NISR
+Urban poverty rate,16.7,%,2023/24,EICV7 NISR
+Multidimensional poverty,30.5,%,2023/24,EICV7 NISR
+Financial inclusion (overall),96,%,2024,FinScope 2024
+Formal financial inclusion,92,%,2024,FinScope 2024
+Completely financially excluded,4,%,2024,FinScope 2024
+Financially excluded adults,316000,persons,2024,FinScope 2024
+Health insurance coverage,85.3,%,2023/24,EICV7 NISR
+VUP households in poverty,41,%,2023/24,VUP Thematic Report
+VUP extreme poverty,9,%,2023/24,VUP Thematic Report
+VUP moderate poverty,32,%,2023/24,VUP Thematic Report
